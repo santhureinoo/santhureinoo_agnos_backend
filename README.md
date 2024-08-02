@@ -10,7 +10,7 @@ This project is a backend service built with Go, using PostgreSQL as the databas
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/yourusername/agnos_backend.git cd agnos_backend
+git clone https://github.com/santhureinoo/santhureinoo_agnos_backend.git cd santhureinoo_agnos_backend
 
 
 2. Set up environment variables:
